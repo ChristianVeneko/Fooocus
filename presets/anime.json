@@ -47,10 +47,7 @@
         "prefectPonyXL_v2CleanedStyle.safetensors": "https://civitai.com/api/download/models/686553?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "shiny_nai_pdxl.safetensors": "https://download850.mediafire.com/5cd2yokto32g9sTOY4pl4WM2oFIfat-7zn_1_Ajz2o0SyE8vV14o4_SlUEHJm8D-MY2tBCmv_GngKxAhZDjnjvrRCfV3M2bcCL1D1TINkISwIMJ8fD7lUEzD7W_8f6TI1KWiPfBrxZ-S2SVek0cO_JfA9LhPCr22NwfvpjA1LhMbXw/9jkzw8tjj96jjzi/shiny_nai_pdxl.safetensors", 
-        "zy_AmateurStyle_v2.safetensors": "https://download1073.mediafire.com/cffs9usqgotg_vMLa8FuUplNk9umT2nokinvsKPkEAyz412m7SudtaSNQseQlOrhOem9SRt0ip4cwKY8za6J0b6VjKd-MUf8bCDh_2kEdNMKRann04MEzQ-U0lof430xlSXyrF4GuP4YahbO5Hmuv8EJeQYoDDbi4N7GiTVrGj6P9Q/6rimtpkpbq8vcmm/zy_AmateurStyle_v2.safetensors"
-    },
+    "lora_downloads": {},
     "previous_default_models": [
         "prefectPonyXL_v2CleanedStyle.safetensors",
         "prefectPonyXL_v2CleanedStyle.safetensors",
