@@ -47,7 +47,9 @@
         "pinkiepiePonyMix_v35Fp16Alt.safetensors": "https://civitai.com/api/download/models/691683?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "shiny_nai_pdxl.safetensors": "https://civitai.com/api/download/models/691705?type=Model&format=SafeTensor"
+    },
     "vae_downloads": {
         "pinkiepiePonyMix_v35Fp16Alt.safetensors": "https://civitai.com/api/download/models/691683?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     }
