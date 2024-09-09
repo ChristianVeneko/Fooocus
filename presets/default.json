@@ -5,7 +5,7 @@
     "default_loras": [
         [
             true,
-            "sd_xl_offset_example-lora_1.0.safetensors",
+            "None",
             0.1
         ],
         [
@@ -37,22 +37,25 @@
     "default_prompt": "",
     "default_prompt_negative": "",
     "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
     ],
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "lustifySDXLNSFWSFW_v20.safetensors": "https://civitai.com/api/download/models/708635?token=563fbbf1de6e24e1db859b619508375d"
+        "lustifySDXLNSFWSFW_v20.safetensors": "https://civitai.com/api/download/models/708635?token=563fbbf1de6e24e1db859b619508375d",
+        "ponyDiffusionV6XL_v6StartWithThisOne.safetensors":"https://civitai.com/api/download/models/290640?token=563fbbf1de6e24e1db859b619508375d"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
         "DonaughtX2Lora-000105.safetensors": "https://civitai.com/api/download/models/322198?type=Model&format=SafeTensor",
         "shiny_nai_pdxl.safetensors": "https://download850.mediafire.com/5cd2yokto32g9sTOY4pl4WM2oFIfat-7zn_1_Ajz2o0SyE8vV14o4_SlUEHJm8D-MY2tBCmv_GngKxAhZDjnjvrRCfV3M2bcCL1D1TINkISwIMJ8fD7lUEzD7W_8f6TI1KWiPfBrxZ-S2SVek0cO_JfA9LhPCr22NwfvpjA1LhMbXw/9jkzw8tjj96jjzi/shiny_nai_pdxl.safetensors", 
-        "zy_AmateurStyle_v2.safetensors": "https://download1073.mediafire.com/cffs9usqgotg_vMLa8FuUplNk9umT2nokinvsKPkEAyz412m7SudtaSNQseQlOrhOem9SRt0ip4cwKY8za6J0b6VjKd-MUf8bCDh_2kEdNMKRann04MEzQ-U0lof430xlSXyrF4GuP4YahbO5Hmuv8EJeQYoDDbi4N7GiTVrGj6P9Q/6rimtpkpbq8vcmm/zy_AmateurStyle_v2.safetensors"
+        "zy_AmateurStyle_v2.safetensors": "https://download1073.mediafire.com/cffs9usqgotg_vMLa8FuUplNk9umT2nokinvsKPkEAyz412m7SudtaSNQseQlOrhOem9SRt0ip4cwKY8za6J0b6VjKd-MUf8bCDh_2kEdNMKRann04MEzQ-U0lof430xlSXyrF4GuP4YahbO5Hmuv8EJeQYoDDbi4N7GiTVrGj6P9Q/6rimtpkpbq8vcmm/zy_AmateurStyle_v2.safetensors",
+        "crystalcheeseXL.safetensors": "https://civitai.com/api/download/models/422608?token=563fbbf1de6e24e1db859b619508375d",
+        "mommyfy_V2.safetensors": "https://civitai.com/api/download/models/230410?token=563fbbf1de6e24e1db859b619508375d",
+        "ZeroQrisu_Style_v2-000001.safetensors": "https://civitai.com/api/download/models/561613?token=563fbbf1de6e24e1db859b619508375d",
+        "momofuki_ponyxl.safetensors": "https://civitai.com/api/download/models/355689?token=563fbbf1de6e24e1db859b619508375d"
+        
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
