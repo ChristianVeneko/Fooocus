@@ -44,7 +44,8 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
+        "pornmasterPro_v9VAE.safetensors": "https://civitai.com/api/download/models/704312?token=563fbbf1de6e24e1db859b619508375d"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
