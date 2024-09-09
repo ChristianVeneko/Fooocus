@@ -55,7 +55,8 @@
         "mommyfy_V2.safetensors": "https://civitai.com/api/download/models/230410?token=563fbbf1de6e24e1db859b619508375d",
         "ZeroQrisu_Style_v2-000001.safetensors": "https://civitai.com/api/download/models/561613?token=563fbbf1de6e24e1db859b619508375d",
         "momofuki_ponyxl.safetensors": "https://civitai.com/api/download/models/355689?token=563fbbf1de6e24e1db859b619508375d",
-        "BTDXL.safetensors": "https://civitai.com/api/download/models/620135?token=563fbbf1de6e24e1db859b619508375d"
+        "BTDXL.safetensors": "https://civitai.com/api/download/models/620135?token=563fbbf1de6e24e1db859b619508375d",
+        "ToshiStyle.safetensors": "https://civitai.com/api/download/models/486400?token=563fbbf1de6e24e1db859b619508375d"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
