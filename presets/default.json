@@ -42,7 +42,8 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "lustifySDXLNSFWSFW_v20.safetensors": "https://civitai.com/api/download/models/708635?token=563fbbf1de6e24e1db859b619508375d"
+        "lustifySDXLNSFWSFW_v20.safetensors": "https://civitai.com/api/download/models/708635?token=563fbbf1de6e24e1db859b619508375d",
+        "juggernautXL_juggXIByRundiffusion.safetensors": "https://civitai.com/api/download/models/782002?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
