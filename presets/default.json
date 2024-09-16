@@ -69,8 +69,9 @@
         "PulenKompot-Jujunaught Style-PonyXL.safetensors": "https://civitai.com/api/download/models/442388?token=563fbbf1de6e24e1db859b619508375d",
         "anime enhancer V3 xl.safetensors": "https://civitai.com/api/download/models/420412?token=563fbbf1de6e24e1db859b619508375d",
         "d43dr1cp31.safetensors": "https://civitai.com/api/download/models/481384?token=563fbbf1de6e24e1db859b619508375d",
-        "Implacable_azur_lane_pdxl_goofy.safetensors": "https://civitai.com/api/download/models/791565?token=563fbbf1de6e24e1db859b619508375d"
-
+        "Implacable_azur_lane_pdxl_goofy.safetensors": "https://civitai.com/api/download/models/791565?token=563fbbf1de6e24e1db859b619508375d",
+        "fellatrix_style_xl_ilff.safetensors": "https://civitai.com/api/download/models/338262?token=563fbbf1de6e24e1db859b619508375d",
+        "PONY_FD-Chubby-BBW-Details-R16.safetensors": "https://civitai.com/api/download/models/696234?token=563fbbf1de6e24e1db859b619508375d"
     },
     "vae_downloads": {
         "sdxl_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
