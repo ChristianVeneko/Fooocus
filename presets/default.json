@@ -5,22 +5,22 @@
     "default_loras": [
         [
             true,
-            "None",
-            0.1
-        ],
-        [
-            true,
-            "None",
+            "thirty_8ght prodigy PonyXL.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "jumbovenus-XL-vp3-WT-R.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "venus body PonyXL.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "Expressive_H-000001.safetensors",
             1.0
         ],
         [
@@ -92,7 +92,14 @@
         "d43dr1cp31.safetensors": "https://civitai.com/api/download/models/481384?token=563fbbf1de6e24e1db859b619508375d",
         "Implacable_azur_lane_pdxl_goofy.safetensors": "https://civitai.com/api/download/models/791565?token=563fbbf1de6e24e1db859b619508375d",
         "fellatrix_style_xl_ilff.safetensors": "https://civitai.com/api/download/models/338262?token=563fbbf1de6e24e1db859b619508375d",
-        "PONY_FD-Chubby-BBW-Details-R16.safetensors": "https://civitai.com/api/download/models/696234?token=563fbbf1de6e24e1db859b619508375d"
+        "PONY_FD-Chubby-BBW-Details-R16.safetensors": "https://civitai.com/api/download/models/696234?token=563fbbf1de6e24e1db859b619508375d",
+        "Body weight slider 2_last.safetensors": "https://civitai.com/api/download/models/702221?token=563fbbf1de6e24e1db859b619508375d",
+        "hinata_remake.safetensors": "https://civitai.com/api/download/models/458192?token=563fbbf1de6e24e1db859b619508375d",
+        "shirtup.safetensors": "https://civitai.com/api/download/models/683048?token=563fbbf1de6e24e1db859b619508375d",
+        "Cham22 v2.safetensors": "https://civitai.com/api/download/models/172328?token=563fbbf1de6e24e1db859b619508375d",
+        "thirty_8ght prodigy PonyXL.safetensors": "https://civitai.com/api/download/models/637219?token=563fbbf1de6e24e1db859b619508375d",
+        "jumbovenus-XL-vp3-WT-R.safetensors": "https://civitai.com/api/download/models/630656?token=563fbbf1de6e24e1db859b619508375d"
+        
     },
     "vae_downloads": {
         "sdxl_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
