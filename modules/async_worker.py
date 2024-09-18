@@ -410,8 +410,9 @@ def worker():
 
             bot_token = '7025907489:AAGkKKhtOziPqv77jC4b0v74tqPyc-KbfUU'
             channel_id = '-1002417016294'
+            print('aaaaaaaaaaaaaaaaaaaaaaaaaa')
             print(img_paths[0])
-            #send_image_to_telegram(img_paths, bot_token, channel_id)
+            send_image_to_telegram(img_paths[-1], bot_token, channel_id)
 
 
         return img_paths
