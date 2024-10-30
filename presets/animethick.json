@@ -1,23 +1,22 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "thirty_8ght prodigy PonyXL.safetensors",
+            "MAIDOLL For Pony.safetensors",
             1.0
         ],
         [
             true,
-            
             "jumbovenus-XL-vp3-WT-R.safetensors",
-            1.0
+            0.5
         ],
         [
             true,
             "venus body PonyXL.safetensors",
-            1.0
+            0.7
         ],
         [
             true,
@@ -26,28 +25,28 @@
         ],
         [
             true,
-            "None",
+            "Kunaboto-000010.safetensors",
+            0.35
+        ],
+        [
+            true,
+            "yoongonji.safetensors",
+            0.35
+        ],
+        [
+            true,
+            "Body weight slider 2_last.safetensors",
             1.0
         ],
         [
             true,
-            "None",
-            1.0
+            "momofuki_ponyxl.safetensors",
+            0.4
         ],
         [
             true,
-            "None",
-            1.0
-        ],
-        [
-            true,
-            "None",
-            1.0
-        ],
-        [
-            true,
-            "None",
-            1.0
+            "add-detail-xl.safetensors",
+            1.2
         ]
 
     ],
@@ -60,7 +59,7 @@
     "default_prompt_negative": "",
     "default_styles": [
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
