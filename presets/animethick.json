@@ -100,7 +100,10 @@
         "jumbovenus-XL-vp3-WT-R.safetensors": "https://civitai.com/api/download/models/630656?token=563fbbf1de6e24e1db859b619508375d",
         "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?token=563fbbf1de6e24e1db859b619508375d",
         "fellatrix style xl pd v1 goofy.safetensors": "https://civitai.com/api/download/models/564601?token=563fbbf1de6e24e1db859b619508375d",
-        "zeroqrisu-koto-illustrious .safetensors":"https://civitai.com/api/download/models/991025?token=563fbbf1de6e24e1db859b619508375d"
+        "zeroqrisu-koto-illustrious .safetensors":"https://civitai.com/api/download/models/991025?token=563fbbf1de6e24e1db859b619508375d",
+        "Natedecock-koto-illustrious.safetensors": "Natedecock-koto-illustrious.safetensors",
+
+        "troglor-koto-illustrious .safetensors": "https://civitai.com/api/download/models/990827?type=Model&format=SafeTensor"
     },
     "vae_downloads": {
         "sdxl_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
