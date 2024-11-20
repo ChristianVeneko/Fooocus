@@ -103,7 +103,7 @@
         "zeroqrisu-koto-illustrious .safetensors":"https://civitai.com/api/download/models/991025?token=563fbbf1de6e24e1db859b619508375d",
         "Natedecock-koto-illustrious.safetensors": "Natedecock-koto-illustrious.safetensors",
 
-        "troglor-koto-illustrious .safetensors": "https://civitai.com/api/download/models/990827?type=Model&format=SafeTensor"
+        "troglor-koto-illustrious .safetensors": "https://civitai.com/api/download/models/990827?token=563fbbf1de6e24e1db859b619508375d"
     },
     "vae_downloads": {
         "sdxl_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
