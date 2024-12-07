@@ -5,8 +5,8 @@
     "default_loras": [
         [
             true,
-            "MAIDOLL For Pony.safetensors",
-            1.0
+            "tanic.safetensors",
+            0.7
         ],
         [
             true,
@@ -25,8 +25,8 @@
         ],
         [
             true,
-            "Kunaboto-000010.safetensors",
-            0.35
+            "TawaraH_Illust.safetensors",
+            0.55
         ],
         [
             true,
@@ -41,7 +41,7 @@
         [
             true,
             "momofuki_ponyxl.safetensors",
-            0.4
+            0.45
         ],
         [
             true,
