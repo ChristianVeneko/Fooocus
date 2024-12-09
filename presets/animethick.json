@@ -30,8 +30,8 @@
         ],
         [
             true,
-            "yoongonji.safetensors",
-            0.35
+            "zeroqrisu-koto-illustrious .safetensors",
+            0.55
         ],
         [
             true,
@@ -100,7 +100,6 @@
         "fellatrix style xl pd v1 goofy.safetensors": "https://civitai.com/api/download/models/564601?token=563fbbf1de6e24e1db859b619508375d",
         "zeroqrisu-koto-illustrious .safetensors":"https://civitai.com/api/download/models/991025?token=563fbbf1de6e24e1db859b619508375d",
         "Natedecock-koto-illustrious.safetensors": "https://civitai.com/api/download/models/1078914?token=563fbbf1de6e24e1db859b619508375d",
-
         "troglor-koto-illustrious .safetensors": "https://civitai.com/api/download/models/990827?token=563fbbf1de6e24e1db859b619508375d"
     },
     "vae_downloads": {
