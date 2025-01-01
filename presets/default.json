@@ -102,7 +102,10 @@
         "fellatrix style xl pd v1 goofy.safetensors": "https://civitai.com/api/download/models/564601?token=563fbbf1de6e24e1db859b619508375d", 
         "zeroqrisuPonyxlStyle_v10.safetensors": "https://civitai.com/api/download/models/865775?token=563fbbf1de6e24e1db859b619508375d",
         "tanic.safetensors": "https://civitai.com/api/download/models/679663?token=563fbbf1de6e24e1db859b619508375d",
-        "TawaraH_Illust.safetensors": "https://civitai.com/api/download/models/1013442?token=563fbbf1de6e24e1db859b619508375d"   
+        "TawaraH_Illust.safetensors": "https://civitai.com/api/download/models/1013442?token=563fbbf1de6e24e1db859b619508375d",
+        "wagashiv2smaller.safetensors": "https://civitai.com/api/download/models/123379?token=563fbbf1de6e24e1db859b619508375d",
+        "BlueBorscht-P4v1-PDXL.safetensors": "https://civitai.com/api/download/models/879666?token=563fbbf1de6e24e1db859b619508375d",
+        "KanabunXL.safetensors": "https://civitai.com/api/download/models/329547?token=563fbbf1de6e24e1db859b619508375d"
         
     },
     "vae_downloads": {
