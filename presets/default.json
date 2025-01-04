@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -63,10 +63,10 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
         "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16",
         "autismmixSDXL_autismmixPony.safetensors": "https://civitai.com/api/download/models/324619?token=563fbbf1de6e24e1db859b619508375d",
-        "noobaiXLNAIXL_epsilonPred05Version.safetensors": "https://civitai.com/api/download/models/968495?token=563fbbf1de6e24e1db859b619508375d"
+        "noobaiXLNAIXL_epsilonPred05Version.safetensors": "https://civitai.com/api/download/models/968495?token=563fbbf1de6e24e1db859b619508375d",
+        "blendermix_v20.safetensors": "https://civitai.com/api/download/models/541561?token=563fbbf1de6e24e1db859b619508375d"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
@@ -105,17 +105,15 @@
         "TawaraH_Illust.safetensors": "https://civitai.com/api/download/models/1013442?token=563fbbf1de6e24e1db859b619508375d",
         "wagashiv2smaller.safetensors": "https://civitai.com/api/download/models/123379?token=563fbbf1de6e24e1db859b619508375d",
         "BlueBorscht-P4v1-PDXL.safetensors": "https://civitai.com/api/download/models/879666?token=563fbbf1de6e24e1db859b619508375d",
-        "KanabunXL.safetensors": "https://civitai.com/api/download/models/329547?token=563fbbf1de6e24e1db859b619508375d"
+        "KanabunXL.safetensors": "https://civitai.com/api/download/models/329547?token=563fbbf1de6e24e1db859b619508375d",
+        "Hooves-art-Beta-version.safetensors": "https://civitai.com/api/download/models/416207?token=563fbbf1de6e24e1db859b619508375d",
+        "WildcardX-XL-Detail-Enhancer.safetensors": "https://civitai.com/api/download/models/298448?token=563fbbf1de6e24e1db859b619508375d",
+        "Cally3d.safetensors": "https://civitai.com/api/download/models/406784?token=563fbbf1de6e24e1db859b619508375d"
         
     },
     "vae_downloads": {
         "sdxl_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
     },
     "previous_default_models": [
-        "juggernautXL_version8Rundiffusion.safetensors",
-        "juggernautXL_version7Rundiffusion.safetensors",
-        "juggernautXL_v7Rundiffusion.safetensors",
-        "juggernautXL_version6Rundiffusion.safetensors",
-        "juggernautXL_v6Rundiffusion.safetensors"
     ]
 }
