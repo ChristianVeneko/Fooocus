@@ -1,0 +1,76 @@
+{
+    "default_model": "ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            true,
+            "WildcardX-XL-Detail-Enhancer.safetensors",
+            1
+        ],
+        [
+            true,
+            "Expressive_H-000001.safetensors",
+            1.0
+        ],
+        [
+            false,
+            "Cally3d.safetensors",
+            0.8
+        ],
+        [
+            false,
+            "Hooves-art-Beta-version.safetensors",
+            1.0
+        ],
+        [
+            false,
+            "",
+            1.0
+        ],
+        [
+            false,
+            "",
+            1.0
+        ],
+        [
+            false,
+            "",
+            1.0
+        ],
+        [
+            false,
+            "",
+            1.0
+        ],
+        [
+            false,
+            "",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 7.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [],
+    "default_aspect_ratio": "896*1152",
+    "default_overwrite_step": -1,
+    "checkpoint_downloads": {
+        "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "autismmixSDXL_autismmixPony.safetensors": "https://civitai.com/api/download/models/324619?token=563fbbf1de6e24e1db859b619508375d"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "Hooves-art-Beta-version.safetensors": "https://civitai.com/api/download/models/416207?token=563fbbf1de6e24e1db859b619508375d",
+        "WildcardX-XL-Detail-Enhancer.safetensors": "https://civitai.com/api/download/models/298448?token=563fbbf1de6e24e1db859b619508375d",
+        "Cally3d.safetensors": "https://civitai.com/api/download/models/406784?token=563fbbf1de6e24e1db859b619508375d"
+    },
+    "vae_downloads": {
+        "sdxl_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
+    },
+    "previous_default_models": []
+}
