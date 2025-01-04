@@ -62,7 +62,6 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
         "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16",
         "autismmixSDXL_autismmixPony.safetensors": "https://civitai.com/api/download/models/324619?token=563fbbf1de6e24e1db859b619508375d"
     },
@@ -100,10 +99,7 @@
         "fellatrix style xl pd v1 goofy.safetensors": "https://civitai.com/api/download/models/564601?token=563fbbf1de6e24e1db859b619508375d",
         "zeroqrisu-koto-illustrious .safetensors":"https://civitai.com/api/download/models/991025?token=563fbbf1de6e24e1db859b619508375d",
         "Natedecock-koto-illustrious.safetensors": "https://civitai.com/api/download/models/1078914?token=563fbbf1de6e24e1db859b619508375d",
-        "troglor-koto-illustrious .safetensors": "https://civitai.com/api/download/models/990827?token=563fbbf1de6e24e1db859b619508375d",
-        "wagashiv2smaller.safetensors": "https://civitai.com/api/download/models/123379?token=563fbbf1de6e24e1db859b619508375d",
-        "BlueBorscht-P4v1-PDXL.safetensors": "https://civitai.com/api/download/models/879666?token=563fbbf1de6e24e1db859b619508375d",
-        "KanabunXL.safetensors": "https://civitai.com/api/download/models/329547?token=563fbbf1de6e24e1db859b619508375d"
+        "troglor-koto-illustrious .safetensors": "https://civitai.com/api/download/models/990827?token=563fbbf1de6e24e1db859b619508375d"
 
     },
     "vae_downloads": {
