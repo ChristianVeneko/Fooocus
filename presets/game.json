@@ -1,22 +1,22 @@
 {
-    "default_model": "pixelArtDiffusionXL_spriteShaper.safetensors",
+    "default_model": "2D_Pixel_Sprites.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "pixel-art-xl-v1.1.safetensors",
-            1.0
-        ],
-        [
-            true,
-            
             "PixelartXl.safetensors",
             1.0
         ],
         [
             true,
-            "venus body PonyXL.safetensors",
+            
+            "pixel-art-xl-v1.1.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "pixel_sprites_32.safetensors",
             1.0
         ],
         [
@@ -26,17 +26,17 @@
         ],
         [
             true,
-            "None",
+            "pixel sword.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "pixel gun.safetensors",
             1.0
         ],
         [
             true,
-            "None",
+            "Pixel_Xl_V1 .safetensors",
             1.0
         ],
         [
