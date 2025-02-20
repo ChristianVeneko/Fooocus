@@ -5,19 +5,18 @@
     "default_loras": [
         [
             true,
-            "thirty_8ght prodigy PonyXL.safetensors",
-            1.0
+            "tanic.safetensors",
+            0.7
         ],
         [
             true,
-            
             "jumbovenus-XL-vp3-WT-R.safetensors",
-            1.0
+            0.5
         ],
         [
             true,
             "venus body PonyXL.safetensors",
-            1.0
+            0.7
         ],
         [
             true,
@@ -26,43 +25,43 @@
         ],
         [
             true,
-            "None",
+            "TawaraH_Illust.safetensors",
+            0.55
+        ],
+        [
+            true,
+            "zeroqrisu-koto-illustrious .safetensors",
+            0.55
+        ],
+        [
+            true,
+            "jumbovenus-XL-vp3-WT-R.safetensors",
             1.0
         ],
         [
             true,
-            "None",
-            1.0
+            "momofuki_ponyxl.safetensors",
+            0.45
         ],
         [
             true,
-            "None",
-            1.0
+            "add-detail-xl.safetensors",
+            1.2
         ],
         [
             true,
-            "None",
-            1.0
+            "POKEMON_ABRA_PONY_XL.safetensors",
+            0.8
         ],
         [
             true,
-            "None",
-            1.0
+            "gammainks.safetensors",
+            0.55
         ],
         [
             true,
-            "None",
-            1.0
-        ],
-        [
-            true,
-            "None",
-            1.0
-        ],
-        [
-            true,
-            "None",
-            1.0
+            "ComplexTree-Artist Style-Ilustrious.safetensors",
+            0.44
         ]
 
     ],
@@ -75,13 +74,11 @@
     "default_prompt_negative": "",
     "default_styles": [
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16",
-        "autismmixSDXL_autismmixPony.safetensors": "https://civitai.com/api/download/models/324619?token=563fbbf1de6e24e1db859b619508375d",
-        "noobaiXLNAIXL_epsilonPred05Version.safetensors": "https://civitai.com/api/download/models/968495?token=563fbbf1de6e24e1db859b619508375d",
-        "blendermix_v20.safetensors": "https://civitai.com/api/download/models/541561?token=563fbbf1de6e24e1db859b619508375d"
+        "autismmixSDXL_autismmixPony.safetensors": "https://civitai.com/api/download/models/324619?token=563fbbf1de6e24e1db859b619508375d"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
@@ -113,22 +110,24 @@
         "thirty_8ght prodigy PonyXL.safetensors": "https://civitai.com/api/download/models/637219?token=563fbbf1de6e24e1db859b619508375d",
         "jumbovenus-XL-vp3-WT-R.safetensors": "https://civitai.com/api/download/models/630656?token=563fbbf1de6e24e1db859b619508375d",
         "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?token=563fbbf1de6e24e1db859b619508375d",
-        "fellatrix style xl pd v1 goofy.safetensors": "https://civitai.com/api/download/models/564601?token=563fbbf1de6e24e1db859b619508375d", 
-        "zeroqrisuPonyxlStyle_v10.safetensors": "https://civitai.com/api/download/models/865775?token=563fbbf1de6e24e1db859b619508375d",
-        "tanic.safetensors": "https://civitai.com/api/download/models/679663?token=563fbbf1de6e24e1db859b619508375d",
-        "TawaraH_Illust.safetensors": "https://civitai.com/api/download/models/1013442?token=563fbbf1de6e24e1db859b619508375d",
-        "wagashiv2smaller.safetensors": "https://civitai.com/api/download/models/123379?token=563fbbf1de6e24e1db859b619508375d",
-        "BlueBorscht-P4v1-PDXL.safetensors": "https://civitai.com/api/download/models/879666?token=563fbbf1de6e24e1db859b619508375d",
-        "KanabunXL.safetensors": "https://civitai.com/api/download/models/329547?token=563fbbf1de6e24e1db859b619508375d",
-        "Hooves-art-Beta-version.safetensors": "https://civitai.com/api/download/models/416207?token=563fbbf1de6e24e1db859b619508375d",
-        "WildcardX-XL-Detail-Enhancer.safetensors": "https://civitai.com/api/download/models/298448?token=563fbbf1de6e24e1db859b619508375d",
-        "Cally3d.safetensors": "https://civitai.com/api/download/models/406784?token=563fbbf1de6e24e1db859b619508375d",
-        "MarieOnesie-10.safetensors": "https://civitai.com/api/download/models/727283?token=563fbbf1de6e24e1db859b619508375d"
-        
+        "fellatrix style xl pd v1 goofy.safetensors": "https://civitai.com/api/download/models/564601?token=563fbbf1de6e24e1db859b619508375d",
+        "zeroqrisu-koto-illustrious .safetensors":"https://civitai.com/api/download/models/991025?token=563fbbf1de6e24e1db859b619508375d",
+        "Natedecock-koto-illustrious.safetensors": "https://civitai.com/api/download/models/1078914?token=563fbbf1de6e24e1db859b619508375d",
+        "troglor-koto-illustrious .safetensors": "https://civitai.com/api/download/models/990827?token=563fbbf1de6e24e1db859b619508375d",
+        "POKEMON_ABRA_PONY_XL.safetensors": "https://civitai.com/api/download/models/665778?token=563fbbf1de6e24e1db859b619508375d",
+        "gammainks.safetensors": "https://civitai.com/api/download/models/706955?token=563fbbf1de6e24e1db859b619508375d",
+        "ComplexTree-Artist Style-Ilustrious.safetensors": "https://civitai.com/api/download/models/1223684?token=563fbbf1de6e24e1db859b619508375d",
+        "R-MK_-_Style.safetensors": "https://civitai.com/api/download/models/1079121?token=563fbbf1de6e24e1db859b619508375d"
+
     },
     "vae_downloads": {
         "sdxl_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
     },
     "previous_default_models": [
+        "juggernautXL_version8Rundiffusion.safetensors",
+        "juggernautXL_version7Rundiffusion.safetensors",
+        "juggernautXL_v7Rundiffusion.safetensors",
+        "juggernautXL_version6Rundiffusion.safetensors",
+        "juggernautXL_v6Rundiffusion.safetensors"
     ]
 }
