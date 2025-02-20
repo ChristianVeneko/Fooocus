@@ -47,6 +47,21 @@
             true,
             "add-detail-xl.safetensors",
             1.2
+        ],
+        [
+            false,
+            "POKEMON_ABRA_PONY_XL.safetensors",
+            0.8
+        ],
+        [
+            false,
+            "gammainks.safetensors",
+            0.55
+        ],
+        [
+            false,
+            "ComplexTree-Artist Style-Ilustrious.safetensors",
+            0.44
         ]
 
     ],
@@ -98,7 +113,11 @@
         "fellatrix style xl pd v1 goofy.safetensors": "https://civitai.com/api/download/models/564601?token=563fbbf1de6e24e1db859b619508375d",
         "zeroqrisu-koto-illustrious .safetensors":"https://civitai.com/api/download/models/991025?token=563fbbf1de6e24e1db859b619508375d",
         "Natedecock-koto-illustrious.safetensors": "https://civitai.com/api/download/models/1078914?token=563fbbf1de6e24e1db859b619508375d",
-        "troglor-koto-illustrious .safetensors": "https://civitai.com/api/download/models/990827?token=563fbbf1de6e24e1db859b619508375d"
+        "troglor-koto-illustrious .safetensors": "https://civitai.com/api/download/models/990827?token=563fbbf1de6e24e1db859b619508375d",
+        "POKEMON_ABRA_PONY_XL.safetensors": "https://civitai.com/api/download/models/665778?token=563fbbf1de6e24e1db859b619508375d",
+        "gammainks.safetensors": "https://civitai.com/api/download/models/706955?token=563fbbf1de6e24e1db859b619508375d",
+        "ComplexTree-Artist Style-Ilustrious.safetensors": "https://civitai.com/api/download/models/1223684?token=563fbbf1de6e24e1db859b619508375d",
+        "R-MK_-_Style.safetensors": "https://civitai.com/api/download/models/1079121?token=563fbbf1de6e24e1db859b619508375d"
 
     },
     "vae_downloads": {
