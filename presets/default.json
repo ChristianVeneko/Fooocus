@@ -1,0 +1,134 @@
+{
+    "default_model": "ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            true,
+            "thirty_8ght prodigy PonyXL.safetensors",
+            1.0
+        ],
+        [
+            true,
+            
+            "jumbovenus-XL-vp3-WT-R.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "venus body PonyXL.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "Expressive_H-000001.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+
+    ],
+    "default_cfg_scale": 7.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [
+    ],
+    "default_aspect_ratio": "1152*896",
+    "default_overwrite_step": -1,
+    "checkpoint_downloads": {
+        "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "autismmixSDXL_autismmixPony.safetensors": "https://civitai.com/api/download/models/324619?token=563fbbf1de6e24e1db859b619508375d",
+        "noobaiXLNAIXL_epsilonPred05Version.safetensors": "https://civitai.com/api/download/models/968495?token=563fbbf1de6e24e1db859b619508375d",
+        "blendermix_v20.safetensors": "https://civitai.com/api/download/models/541561?token=563fbbf1de6e24e1db859b619508375d"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
+        "DonaughtX2Lora-000105.safetensors": "https://civitai.com/api/download/models/322198?type=Model&format=SafeTensor",
+        "crystalcheeseXL.safetensors": "https://civitai.com/api/download/models/422608?token=563fbbf1de6e24e1db859b619508375d",
+        "mommyfy_V2.safetensors": "https://civitai.com/api/download/models/230410?token=563fbbf1de6e24e1db859b619508375d",
+        "ZeroQrisu_Style_v2-000001.safetensors": "https://civitai.com/api/download/models/561613?token=563fbbf1de6e24e1db859b619508375d",
+        "momofuki_ponyxl.safetensors": "https://civitai.com/api/download/models/355689?token=563fbbf1de6e24e1db859b619508375d",
+        "BTDXL.safetensors": "https://civitai.com/api/download/models/620135?token=563fbbf1de6e24e1db859b619508375d",
+        "ToshiStyle.safetensors": "https://civitai.com/api/download/models/486400?token=563fbbf1de6e24e1db859b619508375d",
+        "venus body PonyXL.safetensors": "https://civitai.com/api/download/models/624971?token=563fbbf1de6e24e1db859b619508375d",
+        "Kunaboto-000010.safetensors": "https://civitai.com/api/download/models/536402?token=563fbbf1de6e24e1db859b619508375d",
+        "Expressive_H-000001.safetensors": "https://civitai.com/api/download/models/382152?token=563fbbf1de6e24e1db859b619508375d",
+        "MAIDOLL For Pony.safetensors": "https://civitai.com/api/download/models/526273?token=563fbbf1de6e24e1db859b619508375d",
+        "yoongonji.safetensors": "https://civitai.com/api/download/models/488092?token=563fbbf1de6e24e1db859b619508375d",
+        "Yokkora_Style-000006.safetensors": "https://civitai.com/api/download/models/634414?token=563fbbf1de6e24e1db859b619508375d",
+        "asa_yohoki_style_ponyxl_ilff.safetensors": "https://civitai.com/api/download/models/359474?token=563fbbf1de6e24e1db859b619508375d",
+        "RAR 0.4v.safetensors": "https://civitai.com/api/download/models/737472?token=563fbbf1de6e24e1db859b619508375d",
+        "PulenKompot-Jujunaught Style-PonyXL.safetensors": "https://civitai.com/api/download/models/442388?token=563fbbf1de6e24e1db859b619508375d",
+        "anime enhancer V3 xl.safetensors": "https://civitai.com/api/download/models/420412?token=563fbbf1de6e24e1db859b619508375d",
+        "d43dr1cp31.safetensors": "https://civitai.com/api/download/models/481384?token=563fbbf1de6e24e1db859b619508375d",
+        "Implacable_azur_lane_pdxl_goofy.safetensors": "https://civitai.com/api/download/models/791565?token=563fbbf1de6e24e1db859b619508375d",
+        "fellatrix_style_xl_ilff.safetensors": "https://civitai.com/api/download/models/338262?token=563fbbf1de6e24e1db859b619508375d",
+        "PONY_FD-Chubby-BBW-Details-R16.safetensors": "https://civitai.com/api/download/models/696234?token=563fbbf1de6e24e1db859b619508375d",
+        "hinata_remake.safetensors": "https://civitai.com/api/download/models/458192?token=563fbbf1de6e24e1db859b619508375d",
+        "shirtup.safetensors": "https://civitai.com/api/download/models/683048?token=563fbbf1de6e24e1db859b619508375d",
+        "Cham22 v2.safetensors": "https://civitai.com/api/download/models/172328?token=563fbbf1de6e24e1db859b619508375d",
+        "thirty_8ght prodigy PonyXL.safetensors": "https://civitai.com/api/download/models/637219?token=563fbbf1de6e24e1db859b619508375d",
+        "jumbovenus-XL-vp3-WT-R.safetensors": "https://civitai.com/api/download/models/630656?token=563fbbf1de6e24e1db859b619508375d",
+        "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?token=563fbbf1de6e24e1db859b619508375d",
+        "fellatrix style xl pd v1 goofy.safetensors": "https://civitai.com/api/download/models/564601?token=563fbbf1de6e24e1db859b619508375d", 
+        "zeroqrisuPonyxlStyle_v10.safetensors": "https://civitai.com/api/download/models/865775?token=563fbbf1de6e24e1db859b619508375d",
+        "tanic.safetensors": "https://civitai.com/api/download/models/679663?token=563fbbf1de6e24e1db859b619508375d",
+        "TawaraH_Illust.safetensors": "https://civitai.com/api/download/models/1013442?token=563fbbf1de6e24e1db859b619508375d",
+        "wagashiv2smaller.safetensors": "https://civitai.com/api/download/models/123379?token=563fbbf1de6e24e1db859b619508375d",
+        "BlueBorscht-P4v1-PDXL.safetensors": "https://civitai.com/api/download/models/879666?token=563fbbf1de6e24e1db859b619508375d",
+        "KanabunXL.safetensors": "https://civitai.com/api/download/models/329547?token=563fbbf1de6e24e1db859b619508375d",
+        "Hooves-art-Beta-version.safetensors": "https://civitai.com/api/download/models/416207?token=563fbbf1de6e24e1db859b619508375d",
+        "WildcardX-XL-Detail-Enhancer.safetensors": "https://civitai.com/api/download/models/298448?token=563fbbf1de6e24e1db859b619508375d",
+        "Cally3d.safetensors": "https://civitai.com/api/download/models/406784?token=563fbbf1de6e24e1db859b619508375d",
+        "MarieOnesie-10.safetensors": "https://civitai.com/api/download/models/727283?token=563fbbf1de6e24e1db859b619508375d"
+        
+    },
+    "vae_downloads": {
+        "sdxl_vae.safetensors": "https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor"
+    },
+    "previous_default_models": [
+    ]
+}
