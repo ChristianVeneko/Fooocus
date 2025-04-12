@@ -81,7 +81,7 @@
         "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16",
         "autismmixSDXL_autismmixPony.safetensors": "https://civitai.com/api/download/models/324619?token=563fbbf1de6e24e1db859b619508375d",
         "noobaiXLNAIXL_epsilonPred05Version.safetensors": "https://civitai.com/api/download/models/968495?token=563fbbf1de6e24e1db859b619508375d",
-        "blendermix_v20.safetensors": "https://civitai.com/api/download/models/541561?token=563fbbf1de6e24e1db859b619508375d"
+        "waiNSFWIllustrious_v110.safetensors": "https://civitai.com/api/download/models/1410435?token=563fbbf1de6e24e1db859b619508375d"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
