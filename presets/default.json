@@ -81,12 +81,14 @@
         "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16",
         "autismmixSDXL_autismmixPony.safetensors": "https://civitai.com/api/download/models/324619?token=563fbbf1de6e24e1db859b619508375d",
         "noobaiXLNAIXL_epsilonPred05Version.safetensors": "https://civitai.com/api/download/models/968495?token=563fbbf1de6e24e1db859b619508375d",
-        "waiNSFWIllustrious_v110.safetensors": "https://civitai.com/api/download/models/1410435?token=563fbbf1de6e24e1db859b619508375d"
-    
+        "waiNSFWIllustrious_v110.safetensors": "https://civitai.com/api/download/models/1410435?token=563fbbf1de6e24e1db859b619508375d",
+        "waiNSFWIllustrious_v140.safetensors": "https://civitai.com/api/download/models/1761560?token=563fbbf1de6e24e1db859b619508375d",
+        "realDream_sdxlPony18.safetensors": ""
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
+        "zy_AmateurStyle_v2.safetensors":"https://civitai.com/api/download/models/717403?type=563fbbf1de6e24e1db859b619508375d",
         "DonaughtX2Lora-000105.safetensors": "https://civitai.com/api/download/models/322198?type=Model&format=SafeTensor",
         "crystalcheeseXL.safetensors": "https://civitai.com/api/download/models/422608?token=563fbbf1de6e24e1db859b619508375d",
         "mommyfy_V2.safetensors": "https://civitai.com/api/download/models/230410?token=563fbbf1de6e24e1db859b619508375d",
