@@ -83,7 +83,6 @@
         "noobaiXLNAIXL_epsilonPred05Version.safetensors": "https://civitai.com/api/download/models/968495?token=563fbbf1de6e24e1db859b619508375d",
         "waiNSFWIllustrious_v110.safetensors": "https://civitai.com/api/download/models/1410435?token=563fbbf1de6e24e1db859b619508375d",
         "waiNSFWIllustrious_v140.safetensors": "https://civitai.com/api/download/models/1761560?token=563fbbf1de6e24e1db859b619508375d",
-        "realDream_sdxlPony18.safetensors": "https://civitai.com/api/download/models/1988773?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
